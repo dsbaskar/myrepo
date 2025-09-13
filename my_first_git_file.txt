@@ -1,0 +1,2 @@
+Creating my first git file
+version:1 one
